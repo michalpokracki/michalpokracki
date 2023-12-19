@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michał.
+- 👋 Hi, my name is Michał.
 - 👀 I’m interested in data science, machine learning, AI, and foreign languages.
 - 🌱 I’m currently learning how to envision the future using the power of data, Python, algorithms, deep learning, and other resources.
 - 💞️ I’m looking to collaborate on various data science/machine learning/AI projects having an impact on the technological progress, and the constantly changing world around us.
